@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PicChecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PicChecker_jar</output-path>
+    <root id="archive" name="PicChecker.jar">
+      <element id="module-output" name="PicChecker" />
+    </root>
+  </artifact>
+</component>
