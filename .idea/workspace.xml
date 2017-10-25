@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e831f3-7270-49b0-9068-1e4183a5b74a" name="Default" comment="This is the old java file so it needs to be out of this project.">
+    <list default="true" id="b3e831f3-7270-49b0-9068-1e4183a5b74a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PicChecker.java" afterPath="$PROJECT_DIR$/src/PicChecker.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +25,7 @@
       <file leaf-file-name="PicChecker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PicChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="330">
               <caret line="392" column="36" lean-forward="false" selection-start-line="392" selection-start-column="36" selection-end-line="392" selection-end-column="36" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -342,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508946285719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Trying out the commit.">
+      <created>1508946524609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508946524609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +389,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the old java file so it needs to be out of this project." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the old java file so it needs to be out of this project." />
+    <MESSAGE value="Trying out the commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying out the commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -812,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PicChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="330">
           <caret line="392" column="36" lean-forward="false" selection-start-line="392" selection-start-column="36" selection-end-line="392" selection-end-column="36" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
